@@ -1,7 +1,12 @@
 {
     "name": "architect",
-    "version": "0.0.7",
-    "main": ["static/architect.min.js"],
+    "version": "0.1.0",
+    "main": [
+      "static/architect.min.js",
+      "static/workers/ajax_worker.min.js",
+      "static/workers/jsonp_worker.min.js",
+      "static/workers/proxy_worker.min.js"
+    ],
     "dependencies": {},
     "ignore": [
         "test",
