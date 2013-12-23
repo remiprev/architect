@@ -1,0 +1,14 @@
+{
+    "name": "architect",
+    "version": "0.0.7",
+    "main": ["static/architect.min.js"],
+    "dependencies": {},
+    "ignore": [
+        "test",
+        "lib",
+        "src",
+        "Rakefile",
+        "architect.gemspec",
+        "Gemfile"
+    ]
+}
